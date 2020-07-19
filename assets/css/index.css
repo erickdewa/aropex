@@ -153,6 +153,7 @@ body{
 	display: flex;
 	justify-content: space-between;
 	width: 100%;
+	z-index: 1;
 }
 .btn-icon-sidebar{
 	color: #FFFFFF;
@@ -189,7 +190,7 @@ body{
 	border-bottom: 2px solid #F7F7F7;
 }
 .aro-restraint_body{
-	padding: 25px;
+	padding: 0px 25px 50px 25px;
 	border-radius: 0px 0px 5px 5px;
 }
 /* Footer */
